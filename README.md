@@ -66,4 +66,4 @@ Nna Chidinma Jemimah
 
 📜 License
 
-© {new Date().getFullYear()} Xpen$eTraka. All rights reserved.
+© 2025 Xpen$eTraka. All rights reserved.
